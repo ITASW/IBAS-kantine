@@ -1,0 +1,6 @@
+@IBAS_kantine_HostAddress = http://localhost:5127
+
+GET {{IBAS_kantine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
